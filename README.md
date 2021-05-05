@@ -10,6 +10,10 @@
 <p>visualizando historico do commit</p>
 <code>git log</code><br>
 <p>criando e acessando a nova branch (ramificação) </p>
-<code>git checkout -b "nome da branch "</code><br>
+<code>git checkout -b "nome da branch"</code><br>
 <p>criando uma nova branch (ramificação) </p>
-<code>git branch  "nome da branch "</code><br>
+<code>git branch "nome da branch"</code><br>
+<p>acessando uma branch existente (ramificação) </p>
+<code>git checkout "nome da branch"</code><br>
+<p>atualizando uma branch (ramificação) </p>
+<code>git pull origin "nome da branch"</code><br>
